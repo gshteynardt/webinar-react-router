@@ -1,0 +1,35 @@
+.photo {
+  max-width: 860px;
+  margin: 18px auto;
+}
+
+.photo-goback {
+  font-size: 14px;
+  color: grey;
+  text-decoration: underline;
+}
+
+.photo-image {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  margin-top: 18px;
+}
+
+.photo-title {
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.photo-subtitle {
+  color: #767676;
+  margin-top:5px;
+}
+
+.photo-note {
+  margin-top: 72px;
+  text-align: center;
+  font-size: 14px;
+  color: grey;
+}
